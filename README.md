@@ -28,7 +28,7 @@ This is a website created using JSP technology in which users can create account
 * Admin Module
 * Company Module
 
-# Screenshots
+# Screenshots A RANDOM EXAMLES ARE DONE HERE! CHECK IT OUT
 
 ## HomePage
 ![Image](Screenshots/ss1.png)
@@ -51,4 +51,4 @@ This is a website created using JSP technology in which users can create account
 
 ## Company Module 
 ![Image](Screenshots/ss14.png)
-![Image](Screenshots/ss15.png)
+
