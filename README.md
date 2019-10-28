@@ -1,5 +1,5 @@
 # Online-Evaluation-System
-This isa website created using JSP technology in which users can create account and give objective exam in whichever programming languages they want.
+This is a website created using JSP technology in which users can create account and give objective exam in whichever programming languages they want.
 
 # Functionalities in The Website
 * Login , Registration Functionality for user
