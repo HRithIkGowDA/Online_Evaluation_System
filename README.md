@@ -19,7 +19,7 @@ This is a website created using JSP technology in which users can create account
 * JDBC (Java Database Connectivity) (API)
 * Apache Tomcat Server 9
 * MySql Server 5.5
-* HTML (Hypertext Markup Language)
+* HTML (Hypertext Markup anguage)
 * CSS (Cascading Style Sheets)
 * JavaScript
 
